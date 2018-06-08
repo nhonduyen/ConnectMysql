@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\bin\Debug\ConnectMysql.exe.config
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.Properties.Resources.resources
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\bin\Debug\ConnectMysql.exe
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\bin\Debug\ConnectMysql.pdb
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\bin\Debug\Dapper.dll
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\bin\Debug\EPPlus.dll
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\bin\Debug\Dapper.xml
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\bin\Debug\EPPlus.xml
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.exe
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.pdb
+C:\Users\admin\Documents\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.Form1.resources
